@@ -118,6 +118,11 @@
 元智大學 資訊管理學系
 
 ---
+## 專案影片
+
+🎥 YouTube Demo：
+
+https://www.youtube.com/watch?v=J_8mqtuShTM
 
 ## 報告下載
 
